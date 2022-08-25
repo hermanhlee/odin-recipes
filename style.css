@@ -1,0 +1,21 @@
+* {
+    color: white;
+    background-color: rgb(35, 35, 40);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.body {
+    margin: 200px;
+}
+
+#o-r-title {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    margin-top: 100px;
+}
+
+#food-img {
+    height: auto;
+    width: 500px;
+}
